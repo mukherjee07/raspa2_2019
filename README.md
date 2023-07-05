@@ -1,4 +1,4 @@
-RASPA2
+RASPA2 (May 2018 version)
 ======
 
 This software is a general purpose classical simulation package. It has been developed at
